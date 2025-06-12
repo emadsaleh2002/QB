@@ -15,6 +15,7 @@ Ensure the following are installed on your system:
 Install Angular CLI globally if you haven't already:
 ```bash
 npm install -g @angular/cli@14
+right click on Question folder open the terminal then make this steps:
 
 🔧 Setup Instructions
 1) Clone the repository
@@ -28,6 +29,7 @@ npm install
 ng serve
 
 4) Open the project
+ 
 ng s --o
 
 🛠️ Build for Production
