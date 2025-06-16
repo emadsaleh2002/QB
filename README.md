@@ -14,9 +14,10 @@ Ensure the following are installed on your system:
 - [Node.js](https://nodejs.org/) (v14.x or v16.x recommended)
 - [Angular CLI](https://angular.io/cli) (v14)
 
-Intial step:
+
 Install Angular CLI globally if you haven't already:
 ```bash
+Intial step:
 npm install -g @angular/cli@14
 right click on Question folder open the terminal then make this steps:
 
