@@ -1,6 +1,6 @@
 note if you want to deploy the backend locally go to 
 Question--->src--->app--->auth.service.ts---> comment the baseurl which is worked and remove the comment on the local baseurl and save it 
-make sure you open the backend if you work locally 
+make sure you open the backend if you work locally <---- this steps in this front-end folder
 🧠 Smart QuizBank
 
 Smart QuizBank is an Angular 14-based educational platform designed to manage quiz questions, courses, and student performance with ease. It includes features for students, admins, and content organization.
