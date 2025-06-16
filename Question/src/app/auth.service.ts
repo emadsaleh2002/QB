@@ -6,8 +6,8 @@ import { Injectable } from '@angular/core';
 })
 export class AuthService {
 
-  // baseUrl = 'https://questions-bank-sigma.vercel.app';
-  baseUrl = 'http://localhost:5000'; 
+   baseUrl = 'https://questions-bank-sigma.vercel.app';
+   //baseUrl = 'http://localhost:5000'; 
 
   constructor() {}
 
